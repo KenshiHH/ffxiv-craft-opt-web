@@ -1639,7 +1639,7 @@
     "level": 20,
     "maxQuality": 1263,
     "name": {
-      "cn": "Grade 2 Skybuilders' Hemp Milk (patch 5.21)",
+      "cn": "Grade 2 Skybuilders' Hemp Milk",
       "de": "Genist-Hanfmilch",
       "en": "Grade 2 Skybuilders' Hemp Milk",
       "fr": "Lait de chanvre de restauration (2e phase)",
@@ -3067,7 +3067,7 @@
     "level": 40,
     "maxQuality": 4100,
     "name": {
-      "cn": "Grade 2 Skybuilders' Bread (patch 5.21)",
+      "cn": "Grade 2 Skybuilders' Bread",
       "de": "Genist-Brot",
       "en": "Grade 2 Skybuilders' Bread",
       "fr": "Pain de mie de restauration (2e phase)",
@@ -5773,7 +5773,7 @@
     "level": 150,
     "maxQuality": 15702,
     "name": {
-      "cn": "Grade 2 Skybuilders' Tea (patch 5.21)",
+      "cn": "Grade 2 Skybuilders' Tea",
       "de": "Genist-Schwarztee",
       "en": "Grade 2 Skybuilders' Tea",
       "fr": "Thé de restauration (2e phase)",
@@ -7724,7 +7724,7 @@
     "level": 290,
     "maxQuality": 32860,
     "name": {
-      "cn": "Grade 2 Skybuilders' All-purpose Infusion (patch 5.21)",
+      "cn": "Grade 2 Skybuilders' All-purpose Infusion",
       "de": "Genist-Kräuterbad",
       "en": "Grade 2 Skybuilders' All-purpose Infusion",
       "fr": "Tisane de restauration (2e phase)",
@@ -9050,7 +9050,7 @@
     "level": 430,
     "maxQuality": 9131,
     "name": {
-      "cn": "Devil's Salad Bowl (patch 5.25)",
+      "cn": "Devil's Salad Bowl",
       "de": "Salat mit verteufelten Eiern",
       "en": "Devil's Salad Bowl",
       "fr": "Saladier d'œufs mimosa",
@@ -9067,7 +9067,7 @@
     "level": 430,
     "maxQuality": 36524,
     "name": {
-      "cn": "Grade 2 Skybuilders' Stew (patch 5.21)",
+      "cn": "Grade 2 Skybuilders' Stew",
       "de": "Genist-Eintopf",
       "en": "Grade 2 Skybuilders' Stew",
       "fr": "Marmite de ragoût de restauration (2e phase)",
@@ -9118,7 +9118,7 @@
     "level": 430,
     "maxQuality": 18262,
     "name": {
-      "cn": "Oddly Specific Seed Extract (patch 5.25)",
+      "cn": "Oddly Specific Seed Extract",
       "de": "Werkstätten-Getreidesamenextrakt",
       "en": "Oddly Specific Seed Extract",
       "fr": "Sève d'affinage",
@@ -9353,7 +9353,7 @@
     "level": 450,
     "maxQuality": 23395,
     "name": {
-      "cn": "Oddly Specific Seed Flour (patch 5.25)",
+      "cn": "Oddly Specific Seed Flour",
       "de": "Werkstätten-Samenmehl",
       "en": "Oddly Specific Seed Flour",
       "fr": "Poudre de graines d'affinage",
@@ -9485,7 +9485,7 @@
     "level": 480,
     "maxQuality": 64862,
     "name": {
-      "cn": "Grade 2 Artisanal Skybuilders' Quiche (patch 5.21)",
+      "cn": "Grade 2 Artisanal Skybuilders' Quiche",
       "de": "Sonderbestellte Genist-Torte",
       "en": "Grade 2 Artisanal Skybuilders' Quiche",
       "fr": "Repas sur commande de restauration (2e phase)",
@@ -9504,7 +9504,7 @@
     "level": 480,
     "maxQuality": 64862,
     "name": {
-      "cn": "Grade 2 Expert Skybuilders' Practice Materials (patch 5.21)",
+      "cn": "Grade 2 Expert Skybuilders' Practice Materials",
       "de": "Sonderbestelltes Genist-Musterstück",
       "en": "Grade 2 Expert Skybuilders' Practice Materials",
       "fr": "Échantillon expérimental pour reconstruction d'Azurée (2e phase)",

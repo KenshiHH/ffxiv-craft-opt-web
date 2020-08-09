@@ -1367,7 +1367,7 @@
     "level": 20,
     "maxQuality": 1263,
     "name": {
-      "cn": "Grade 2 Skybuilders' Ink (patch 5.21)",
+      "cn": "Grade 2 Skybuilders' Ink",
       "de": "Genist-Tinte",
       "en": "Grade 2 Skybuilders' Ink",
       "fr": "Encre de restauration (2e phase)",
@@ -3288,7 +3288,7 @@
     "level": 40,
     "maxQuality": 4100,
     "name": {
-      "cn": "Grade 2 Skybuilders' Plant Oil (patch 5.21)",
+      "cn": "Grade 2 Skybuilders' Plant Oil",
       "de": "Genist-Pflanzenöl",
       "en": "Grade 2 Skybuilders' Plant Oil",
       "fr": "Huile végétale de restauration (2e phase)",
@@ -9262,7 +9262,7 @@
     "level": 150,
     "maxQuality": 15702,
     "name": {
-      "cn": "Grade 2 Skybuilders' Dye (patch 5.21)",
+      "cn": "Grade 2 Skybuilders' Dye",
       "de": "Genist-Farbstoff",
       "en": "Grade 2 Skybuilders' Dye",
       "fr": "Colorant de restauration (2e phase)",
@@ -12935,7 +12935,7 @@
     "level": 290,
     "maxQuality": 32860,
     "name": {
-      "cn": "Grade 2 Skybuilders' Soap (patch 5.21)",
+      "cn": "Grade 2 Skybuilders' Soap",
       "de": "Genist-Seife",
       "en": "Grade 2 Skybuilders' Soap",
       "fr": "Savon de restauration (2e phase)",
@@ -14876,7 +14876,7 @@
     "level": 415,
     "maxQuality": 8081,
     "name": {
-      "cn": "蔬菜园",
+      "cn": "Vegetable Garden (patch 5.15)",
       "de": "Gemüsebeet",
       "en": "Vegetable Garden",
       "fr": "Jardin potager",
@@ -14995,7 +14995,7 @@
     "level": 430,
     "maxQuality": 36524,
     "name": {
-      "cn": "Grade 2 Skybuilders' Alchemic (patch 5.21)",
+      "cn": "Grade 2 Skybuilders' Alchemic",
       "de": "Genist-Tinktur",
       "en": "Grade 2 Skybuilders' Alchemic",
       "fr": "Potion alchimique de restauration (2e phase)",
@@ -15029,7 +15029,7 @@
     "level": 430,
     "maxQuality": 18262,
     "name": {
-      "cn": "Oddly Specific Synthetic Resin (patch 5.25)",
+      "cn": "Oddly Specific Synthetic Resin",
       "de": "Werkstätten-Kunstharz",
       "en": "Oddly Specific Synthetic Resin",
       "fr": "Résine synthétique d'affinage",
@@ -15433,7 +15433,7 @@
     "level": 450,
     "maxQuality": 23395,
     "name": {
-      "cn": "Oddly Specific Glass (patch 5.25)",
+      "cn": "Oddly Specific Glass",
       "de": "Werkstätten-Klarglasscheibe",
       "en": "Oddly Specific Glass",
       "fr": "Plaque de verre d'affinage",
@@ -15508,7 +15508,7 @@
     "level": 480,
     "maxQuality": 64862,
     "name": {
-      "cn": "Grade 2 Artisanal Skybuilders' Remedies (patch 5.21)",
+      "cn": "Grade 2 Artisanal Skybuilders' Remedies",
       "de": "Sonderbestellte Genist-Hausapotheke",
       "en": "Grade 2 Artisanal Skybuilders' Remedies",
       "fr": "Pharmacie sur commande de restauration (2e phase)",
@@ -15527,7 +15527,7 @@
     "level": 480,
     "maxQuality": 64862,
     "name": {
-      "cn": "Grade 2 Expert Skybuilders' Practice Materials (patch 5.21)",
+      "cn": "Grade 2 Expert Skybuilders' Practice Materials",
       "de": "Sonderbestelltes Genist-Musterstück",
       "en": "Grade 2 Expert Skybuilders' Practice Materials",
       "fr": "Échantillon expérimental pour reconstruction d'Azurée (2e phase)",
@@ -15622,7 +15622,7 @@
     "level": 480,
     "maxQuality": 36208,
     "name": {
-      "cn": "Grade 3 Tincture of Dexterity (patch 5.2)",
+      "cn": "Grade 3 Tincture of Dexterity",
       "de": "Visionsremedium der Geschicklichkeit III",
       "en": "Grade 3 Tincture of Dexterity",
       "fr": "Philtre chimérique de dextérité III",
@@ -15641,7 +15641,7 @@
     "level": 480,
     "maxQuality": 36208,
     "name": {
-      "cn": "Grade 3 Tincture of Intelligence (patch 5.2)",
+      "cn": "Grade 3 Tincture of Intelligence",
       "de": "Visionsremedium der Intelligenz III",
       "en": "Grade 3 Tincture of Intelligence",
       "fr": "Philtre chimérique d'intelligence III",
@@ -15660,7 +15660,7 @@
     "level": 480,
     "maxQuality": 36208,
     "name": {
-      "cn": "Grade 3 Tincture of Mind (patch 5.2)",
+      "cn": "Grade 3 Tincture of Mind",
       "de": "Visionsremedium der Willenskraft III",
       "en": "Grade 3 Tincture of Mind",
       "fr": "Philtre chimérique d'esprit III",
@@ -15679,7 +15679,7 @@
     "level": 480,
     "maxQuality": 36208,
     "name": {
-      "cn": "Grade 3 Tincture of Strength (patch 5.2)",
+      "cn": "Grade 3 Tincture of Strength",
       "de": "Visionsremedium der Stärke III",
       "en": "Grade 3 Tincture of Strength",
       "fr": "Philtre chimérique de force III",
@@ -15698,7 +15698,7 @@
     "level": 480,
     "maxQuality": 36208,
     "name": {
-      "cn": "Grade 3 Tincture of Vitality (patch 5.2)",
+      "cn": "Grade 3 Tincture of Vitality",
       "de": "Visionsremedium der Konstitution III",
       "en": "Grade 3 Tincture of Vitality",
       "fr": "Philtre chimérique de vitalité III",
