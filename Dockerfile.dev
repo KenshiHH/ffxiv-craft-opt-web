@@ -1,5 +1,7 @@
-FROM node:4
+FROM node:12
 EXPOSE 8001
-VOLUME /usr/src/app
-WORKDIR /usr/src/app
+WORKDIR WORKDIR /usr/src/app
+COPY package*.json ./
+RUN npm install
+COPY . .
 CMD [ "npm", "start" ]
