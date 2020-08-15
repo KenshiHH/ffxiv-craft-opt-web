@@ -1,4 +1,4 @@
-FROM node:12
+FROM node:latest
 EXPOSE 8001
 WORKDIR WORKDIR /usr/src/app
 COPY package*.json ./
