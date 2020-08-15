@@ -18,14 +18,14 @@ You can pick one of these options:
   
 ### Docker Image & docker-compose.yaml
 
-version: "2"
-services:
-  ffxiv-craft-opt-web:
-    image: kenshihh/ffxiv_crafting_optimizer
-    container_name: ffxiv-craft-opt-web
-    ports:
-      - 8001:8001
-    restart: unless-stopped
+* version: "2"
+* services:
+  * ffxiv-craft-opt-web:
+  * image: kenshihh/ffxiv_crafting_optimizer
+  * container_name: ffxiv-craft-opt-web
+  * ports:
+  *   - 8001:8001
+  * restart: unless-stopped
 
 
 
